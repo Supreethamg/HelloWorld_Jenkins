@@ -4,7 +4,7 @@ import java.util.UUID;
 
 /**
  *Hello world  sample 
- Testing github integration
+ Testing github integration and auto detecting git commit
  *
  */
 public class App 
