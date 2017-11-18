@@ -4,7 +4,8 @@ import java.util.UUID;
 
 /**
  *Hello world  sample 
- Testing github integration and auto detecting git commit
+ Testing github integration and auto detecting git commit.
+TO check if git detects push and triggers build in jenkins.
  *
  */
 public class App 
